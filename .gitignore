@@ -1,0 +1,5 @@
+service_routing.sln
+.vs/*
+service_routing/service_routing.csproj
+service_routing/bin/*
+service_routing/obj/*
